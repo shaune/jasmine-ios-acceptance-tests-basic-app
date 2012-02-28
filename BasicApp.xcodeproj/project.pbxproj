@@ -7,113 +7,113 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1208327814FC2D0C0000494E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1208327714FC2D0C0000494E /* UIKit.framework */; };
-		1208327A14FC2D0C0000494E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1208327914FC2D0C0000494E /* Foundation.framework */; };
-		1208327C14FC2D0C0000494E /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1208327B14FC2D0C0000494E /* CoreGraphics.framework */; };
-		1208328214FC2D0C0000494E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1208328014FC2D0C0000494E /* InfoPlist.strings */; };
-		1208328414FC2D0C0000494E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1208328314FC2D0C0000494E /* main.m */; };
-		1208328814FC2D0C0000494E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1208328714FC2D0C0000494E /* AppDelegate.m */; };
-		1208328B14FC2D0C0000494E /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1208328A14FC2D0C0000494E /* FirstViewController.m */; };
-		1208328D14FC2D0C0000494E /* first.png in Resources */ = {isa = PBXBuildFile; fileRef = 1208328C14FC2D0C0000494E /* first.png */; };
-		1208328F14FC2D0C0000494E /* first@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1208328E14FC2D0C0000494E /* first@2x.png */; };
-		1208329214FC2D0C0000494E /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1208329114FC2D0C0000494E /* SecondViewController.m */; };
-		1208329414FC2D0C0000494E /* second.png in Resources */ = {isa = PBXBuildFile; fileRef = 1208329314FC2D0C0000494E /* second.png */; };
-		1208329614FC2D0C0000494E /* second@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1208329514FC2D0C0000494E /* second@2x.png */; };
-		1208329914FC2D0C0000494E /* FirstViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1208329714FC2D0C0000494E /* FirstViewController.xib */; };
-		1208329C14FC2D0C0000494E /* SecondViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1208329A14FC2D0C0000494E /* SecondViewController.xib */; };
+		120832B614FCDD8B0000494E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 120832B514FCDD8B0000494E /* UIKit.framework */; };
+		120832B814FCDD8B0000494E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 120832B714FCDD8B0000494E /* Foundation.framework */; };
+		120832BA14FCDD8B0000494E /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 120832B914FCDD8B0000494E /* CoreGraphics.framework */; };
+		120832C014FCDD8B0000494E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 120832BE14FCDD8B0000494E /* InfoPlist.strings */; };
+		120832C214FCDD8B0000494E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 120832C114FCDD8B0000494E /* main.m */; };
+		120832C614FCDD8B0000494E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 120832C514FCDD8B0000494E /* AppDelegate.m */; };
+		120832C914FCDD8B0000494E /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 120832C814FCDD8B0000494E /* FirstViewController.m */; };
+		120832CB14FCDD8B0000494E /* first.png in Resources */ = {isa = PBXBuildFile; fileRef = 120832CA14FCDD8B0000494E /* first.png */; };
+		120832CD14FCDD8B0000494E /* first@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 120832CC14FCDD8B0000494E /* first@2x.png */; };
+		120832D014FCDD8B0000494E /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 120832CF14FCDD8B0000494E /* SecondViewController.m */; };
+		120832D214FCDD8B0000494E /* second.png in Resources */ = {isa = PBXBuildFile; fileRef = 120832D114FCDD8B0000494E /* second.png */; };
+		120832D414FCDD8B0000494E /* second@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 120832D314FCDD8B0000494E /* second@2x.png */; };
+		120832D714FCDD8B0000494E /* FirstViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 120832D514FCDD8B0000494E /* FirstViewController.xib */; };
+		120832DA14FCDD8B0000494E /* SecondViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 120832D814FCDD8B0000494E /* SecondViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1208327314FC2D0C0000494E /* BasicApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BasicApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		1208327714FC2D0C0000494E /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		1208327914FC2D0C0000494E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		1208327B14FC2D0C0000494E /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		1208327F14FC2D0C0000494E /* BasicApp-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "BasicApp-Info.plist"; sourceTree = "<group>"; };
-		1208328114FC2D0C0000494E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		1208328314FC2D0C0000494E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		1208328514FC2D0C0000494E /* BasicApp-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "BasicApp-Prefix.pch"; sourceTree = "<group>"; };
-		1208328614FC2D0C0000494E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		1208328714FC2D0C0000494E /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		1208328914FC2D0C0000494E /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
-		1208328A14FC2D0C0000494E /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
-		1208328C14FC2D0C0000494E /* first.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = first.png; sourceTree = "<group>"; };
-		1208328E14FC2D0C0000494E /* first@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "first@2x.png"; sourceTree = "<group>"; };
-		1208329014FC2D0C0000494E /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
-		1208329114FC2D0C0000494E /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
-		1208329314FC2D0C0000494E /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
-		1208329514FC2D0C0000494E /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "second@2x.png"; sourceTree = "<group>"; };
-		1208329814FC2D0C0000494E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/FirstViewController.xib; sourceTree = "<group>"; };
-		1208329B14FC2D0C0000494E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/SecondViewController.xib; sourceTree = "<group>"; };
+		120832B114FCDD8B0000494E /* BasicApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BasicApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		120832B514FCDD8B0000494E /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		120832B714FCDD8B0000494E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		120832B914FCDD8B0000494E /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		120832BD14FCDD8B0000494E /* BasicApp-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "BasicApp-Info.plist"; sourceTree = "<group>"; };
+		120832BF14FCDD8B0000494E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		120832C114FCDD8B0000494E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		120832C314FCDD8B0000494E /* BasicApp-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "BasicApp-Prefix.pch"; sourceTree = "<group>"; };
+		120832C414FCDD8B0000494E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		120832C514FCDD8B0000494E /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		120832C714FCDD8B0000494E /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
+		120832C814FCDD8B0000494E /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
+		120832CA14FCDD8B0000494E /* first.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = first.png; sourceTree = "<group>"; };
+		120832CC14FCDD8B0000494E /* first@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "first@2x.png"; sourceTree = "<group>"; };
+		120832CE14FCDD8B0000494E /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		120832CF14FCDD8B0000494E /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		120832D114FCDD8B0000494E /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
+		120832D314FCDD8B0000494E /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "second@2x.png"; sourceTree = "<group>"; };
+		120832D614FCDD8B0000494E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/FirstViewController.xib; sourceTree = "<group>"; };
+		120832D914FCDD8B0000494E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/SecondViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		1208327014FC2D0C0000494E /* Frameworks */ = {
+		120832AE14FCDD8B0000494E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1208327814FC2D0C0000494E /* UIKit.framework in Frameworks */,
-				1208327A14FC2D0C0000494E /* Foundation.framework in Frameworks */,
-				1208327C14FC2D0C0000494E /* CoreGraphics.framework in Frameworks */,
+				120832B614FCDD8B0000494E /* UIKit.framework in Frameworks */,
+				120832B814FCDD8B0000494E /* Foundation.framework in Frameworks */,
+				120832BA14FCDD8B0000494E /* CoreGraphics.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		1208326814FC2D0C0000494E = {
+		120832A614FCDD8B0000494E = {
 			isa = PBXGroup;
 			children = (
-				1208327D14FC2D0C0000494E /* BasicApp */,
-				1208327614FC2D0C0000494E /* Frameworks */,
-				1208327414FC2D0C0000494E /* Products */,
+				120832BB14FCDD8B0000494E /* BasicApp */,
+				120832B414FCDD8B0000494E /* Frameworks */,
+				120832B214FCDD8B0000494E /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		1208327414FC2D0C0000494E /* Products */ = {
+		120832B214FCDD8B0000494E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1208327314FC2D0C0000494E /* BasicApp.app */,
+				120832B114FCDD8B0000494E /* BasicApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		1208327614FC2D0C0000494E /* Frameworks */ = {
+		120832B414FCDD8B0000494E /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				1208327714FC2D0C0000494E /* UIKit.framework */,
-				1208327914FC2D0C0000494E /* Foundation.framework */,
-				1208327B14FC2D0C0000494E /* CoreGraphics.framework */,
+				120832B514FCDD8B0000494E /* UIKit.framework */,
+				120832B714FCDD8B0000494E /* Foundation.framework */,
+				120832B914FCDD8B0000494E /* CoreGraphics.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		1208327D14FC2D0C0000494E /* BasicApp */ = {
+		120832BB14FCDD8B0000494E /* BasicApp */ = {
 			isa = PBXGroup;
 			children = (
-				1208328614FC2D0C0000494E /* AppDelegate.h */,
-				1208328714FC2D0C0000494E /* AppDelegate.m */,
-				1208328914FC2D0C0000494E /* FirstViewController.h */,
-				1208328A14FC2D0C0000494E /* FirstViewController.m */,
-				1208328C14FC2D0C0000494E /* first.png */,
-				1208328E14FC2D0C0000494E /* first@2x.png */,
-				1208329014FC2D0C0000494E /* SecondViewController.h */,
-				1208329114FC2D0C0000494E /* SecondViewController.m */,
-				1208329314FC2D0C0000494E /* second.png */,
-				1208329514FC2D0C0000494E /* second@2x.png */,
-				1208329714FC2D0C0000494E /* FirstViewController.xib */,
-				1208329A14FC2D0C0000494E /* SecondViewController.xib */,
-				1208327E14FC2D0C0000494E /* Supporting Files */,
+				120832C414FCDD8B0000494E /* AppDelegate.h */,
+				120832C514FCDD8B0000494E /* AppDelegate.m */,
+				120832C714FCDD8B0000494E /* FirstViewController.h */,
+				120832C814FCDD8B0000494E /* FirstViewController.m */,
+				120832CA14FCDD8B0000494E /* first.png */,
+				120832CC14FCDD8B0000494E /* first@2x.png */,
+				120832CE14FCDD8B0000494E /* SecondViewController.h */,
+				120832CF14FCDD8B0000494E /* SecondViewController.m */,
+				120832D114FCDD8B0000494E /* second.png */,
+				120832D314FCDD8B0000494E /* second@2x.png */,
+				120832D514FCDD8B0000494E /* FirstViewController.xib */,
+				120832D814FCDD8B0000494E /* SecondViewController.xib */,
+				120832BC14FCDD8B0000494E /* Supporting Files */,
 			);
 			path = BasicApp;
 			sourceTree = "<group>";
 		};
-		1208327E14FC2D0C0000494E /* Supporting Files */ = {
+		120832BC14FCDD8B0000494E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				1208327F14FC2D0C0000494E /* BasicApp-Info.plist */,
-				1208328014FC2D0C0000494E /* InfoPlist.strings */,
-				1208328314FC2D0C0000494E /* main.m */,
-				1208328514FC2D0C0000494E /* BasicApp-Prefix.pch */,
+				120832BD14FCDD8B0000494E /* BasicApp-Info.plist */,
+				120832BE14FCDD8B0000494E /* InfoPlist.strings */,
+				120832C114FCDD8B0000494E /* main.m */,
+				120832C314FCDD8B0000494E /* BasicApp-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -121,13 +121,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1208327214FC2D0C0000494E /* BasicApp */ = {
+		120832B014FCDD8B0000494E /* BasicApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1208329F14FC2D0C0000494E /* Build configuration list for PBXNativeTarget "BasicApp" */;
+			buildConfigurationList = 120832DD14FCDD8B0000494E /* Build configuration list for PBXNativeTarget "BasicApp" */;
 			buildPhases = (
-				1208326F14FC2D0C0000494E /* Sources */,
-				1208327014FC2D0C0000494E /* Frameworks */,
-				1208327114FC2D0C0000494E /* Resources */,
+				120832AD14FCDD8B0000494E /* Sources */,
+				120832AE14FCDD8B0000494E /* Frameworks */,
+				120832AF14FCDD8B0000494E /* Resources */,
 			);
 			buildRules = (
 			);
@@ -135,86 +135,86 @@
 			);
 			name = BasicApp;
 			productName = BasicApp;
-			productReference = 1208327314FC2D0C0000494E /* BasicApp.app */;
+			productReference = 120832B114FCDD8B0000494E /* BasicApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		1208326A14FC2D0C0000494E /* Project object */ = {
+		120832A814FCDD8B0000494E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0420;
 			};
-			buildConfigurationList = 1208326D14FC2D0C0000494E /* Build configuration list for PBXProject "BasicApp" */;
+			buildConfigurationList = 120832AB14FCDD8B0000494E /* Build configuration list for PBXProject "BasicApp" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = 1208326814FC2D0C0000494E;
-			productRefGroup = 1208327414FC2D0C0000494E /* Products */;
+			mainGroup = 120832A614FCDD8B0000494E;
+			productRefGroup = 120832B214FCDD8B0000494E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1208327214FC2D0C0000494E /* BasicApp */,
+				120832B014FCDD8B0000494E /* BasicApp */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		1208327114FC2D0C0000494E /* Resources */ = {
+		120832AF14FCDD8B0000494E /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1208328214FC2D0C0000494E /* InfoPlist.strings in Resources */,
-				1208328D14FC2D0C0000494E /* first.png in Resources */,
-				1208328F14FC2D0C0000494E /* first@2x.png in Resources */,
-				1208329414FC2D0C0000494E /* second.png in Resources */,
-				1208329614FC2D0C0000494E /* second@2x.png in Resources */,
-				1208329914FC2D0C0000494E /* FirstViewController.xib in Resources */,
-				1208329C14FC2D0C0000494E /* SecondViewController.xib in Resources */,
+				120832C014FCDD8B0000494E /* InfoPlist.strings in Resources */,
+				120832CB14FCDD8B0000494E /* first.png in Resources */,
+				120832CD14FCDD8B0000494E /* first@2x.png in Resources */,
+				120832D214FCDD8B0000494E /* second.png in Resources */,
+				120832D414FCDD8B0000494E /* second@2x.png in Resources */,
+				120832D714FCDD8B0000494E /* FirstViewController.xib in Resources */,
+				120832DA14FCDD8B0000494E /* SecondViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		1208326F14FC2D0C0000494E /* Sources */ = {
+		120832AD14FCDD8B0000494E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1208328414FC2D0C0000494E /* main.m in Sources */,
-				1208328814FC2D0C0000494E /* AppDelegate.m in Sources */,
-				1208328B14FC2D0C0000494E /* FirstViewController.m in Sources */,
-				1208329214FC2D0C0000494E /* SecondViewController.m in Sources */,
+				120832C214FCDD8B0000494E /* main.m in Sources */,
+				120832C614FCDD8B0000494E /* AppDelegate.m in Sources */,
+				120832C914FCDD8B0000494E /* FirstViewController.m in Sources */,
+				120832D014FCDD8B0000494E /* SecondViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		1208328014FC2D0C0000494E /* InfoPlist.strings */ = {
+		120832BE14FCDD8B0000494E /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
-				1208328114FC2D0C0000494E /* en */,
+				120832BF14FCDD8B0000494E /* en */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
-		1208329714FC2D0C0000494E /* FirstViewController.xib */ = {
+		120832D514FCDD8B0000494E /* FirstViewController.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				1208329814FC2D0C0000494E /* en */,
+				120832D614FCDD8B0000494E /* en */,
 			);
 			name = FirstViewController.xib;
 			sourceTree = "<group>";
 		};
-		1208329A14FC2D0C0000494E /* SecondViewController.xib */ = {
+		120832D814FCDD8B0000494E /* SecondViewController.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				1208329B14FC2D0C0000494E /* en */,
+				120832D914FCDD8B0000494E /* en */,
 			);
 			name = SecondViewController.xib;
 			sourceTree = "<group>";
@@ -222,7 +222,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		1208329D14FC2D0C0000494E /* Debug */ = {
+		120832DB14FCDD8B0000494E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -246,7 +246,7 @@
 			};
 			name = Debug;
 		};
-		1208329E14FC2D0C0000494E /* Release */ = {
+		120832DC14FCDD8B0000494E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -265,7 +265,7 @@
 			};
 			name = Release;
 		};
-		120832A014FC2D0C0000494E /* Debug */ = {
+		120832DE14FCDD8B0000494E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -276,7 +276,7 @@
 			};
 			name = Debug;
 		};
-		120832A114FC2D0C0000494E /* Release */ = {
+		120832DF14FCDD8B0000494E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -290,24 +290,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1208326D14FC2D0C0000494E /* Build configuration list for PBXProject "BasicApp" */ = {
+		120832AB14FCDD8B0000494E /* Build configuration list for PBXProject "BasicApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1208329D14FC2D0C0000494E /* Debug */,
-				1208329E14FC2D0C0000494E /* Release */,
+				120832DB14FCDD8B0000494E /* Debug */,
+				120832DC14FCDD8B0000494E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1208329F14FC2D0C0000494E /* Build configuration list for PBXNativeTarget "BasicApp" */ = {
+		120832DD14FCDD8B0000494E /* Build configuration list for PBXNativeTarget "BasicApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				120832A014FC2D0C0000494E /* Debug */,
-				120832A114FC2D0C0000494E /* Release */,
+				120832DE14FCDD8B0000494E /* Debug */,
+				120832DF14FCDD8B0000494E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 1208326A14FC2D0C0000494E /* Project object */;
+	rootObject = 120832A814FCDD8B0000494E /* Project object */;
 }

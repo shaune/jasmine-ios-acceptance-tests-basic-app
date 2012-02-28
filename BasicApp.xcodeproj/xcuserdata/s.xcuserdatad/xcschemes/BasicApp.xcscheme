@@ -13,7 +13,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1208327214FC2D0C0000494E"
+               BlueprintIdentifier = "120832B014FCDD8B0000494E"
                BuildableName = "BasicApp.app"
                BlueprintName = "BasicApp"
                ReferencedContainer = "container:BasicApp.xcodeproj">
@@ -31,7 +31,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1208327214FC2D0C0000494E"
+            BlueprintIdentifier = "120832B014FCDD8B0000494E"
             BuildableName = "BasicApp.app"
             BlueprintName = "BasicApp"
             ReferencedContainer = "container:BasicApp.xcodeproj">
@@ -49,7 +49,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1208327214FC2D0C0000494E"
+            BlueprintIdentifier = "120832B014FCDD8B0000494E"
             BuildableName = "BasicApp.app"
             BlueprintName = "BasicApp"
             ReferencedContainer = "container:BasicApp.xcodeproj">
@@ -67,7 +67,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1208327214FC2D0C0000494E"
+            BlueprintIdentifier = "120832B014FCDD8B0000494E"
             BuildableName = "BasicApp.app"
             BlueprintName = "BasicApp"
             ReferencedContainer = "container:BasicApp.xcodeproj">
